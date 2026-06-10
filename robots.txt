@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hepbet-turkey.vercel.app/sitemap.xml
